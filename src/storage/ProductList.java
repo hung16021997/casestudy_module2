@@ -26,6 +26,6 @@ public class ProductList extends Product {
     public File getProceedsDay() {
         return proceeds_Day;
     }
-    private final File menuFile = new File("");
-    private final File proceeds_Day = new File("");
+    private final File menuFile = new File("/Users/mac/CodeGym/Module2/baithithuchanh/src/Menu.csv");
+    private final File proceeds_Day = new File("/Users/mac/CodeGym/Module2/baithithuchanh/src/Product");
 }
